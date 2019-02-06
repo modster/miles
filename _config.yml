@@ -3,14 +3,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Malanowich Ranch
+title: Goat and Sheep Producer Miles Malanowich
 name: Miles Malanowich
+phone: 403 607-0665
 email: milesjmalanowich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rancho Malanowich sheep and goat producers; purveyors of Halal, Kosher and traditional meat products, livestock, and genetic material. The land has been in the Malanowich family since ____. 
+  Producers Goat and Sheep meat, livestock, and genetic material. Halal available. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
