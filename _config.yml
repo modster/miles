@@ -8,7 +8,7 @@ name: Miles Malanowich
 phone: 403 607-0665
 email: milesjmalanowich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        RMD Farm: Goat and Sheep. Halal. Pre-orders available. 
+        RMD Farm: Demand peaks are early spring and late fall coinciding with the religious holidays of Ramadam and Eid. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
