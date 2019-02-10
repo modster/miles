@@ -1,7 +1,10 @@
-// Can also be used with $(document).ready()
+// Initialise FlexSlider for Carousels
 $(window).load(function() {
-  $('.flexslider').flexslider({
-    animation: "slide"
-  });
+    $('.flexslider').flexslider({
+    animation: "fade",
+    directionNav: true,
+    slideshowSpeed: 5000,
+    animationSpeed: 600,
+    touch: true
+    });
 });
-
